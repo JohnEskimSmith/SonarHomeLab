@@ -1,0 +1,2 @@
+pymongo
+ujson==1.35
